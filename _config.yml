@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Dr. Amy H. Butler"
 title_separator          : "-"
 name                     : &name "Amy H. Butler"
-description              : &description "I am a research scientist at the NOAA Chemical Sciences Laboratory in Boulder, CO. I research large-scale climate variability, teleconnections, atmospheric dynamics, stratospheric processes, and sub-seasonal to seasonal prediction."
+description              : &description "Reseach webpage"
 url                      : https://ahbutlerwx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ahbutlerwx/ahbutlerwx.github.io"
+repository               : "ahbutlerwx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Amy Butler"
   avatar           : "Butler_headshot.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Atmospheric scientist"
+  location         : "Boulder, CO"
+  employer         : "NOAA Chemical Sciences Laboratory"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Eck4ZyIAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Amy-Butler"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3632-0925"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@DrAHButler"
   vine             :
   weibo            :
   xing             :
