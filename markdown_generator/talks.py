@@ -67,7 +67,7 @@ loc_dict = {}
 for row, item in talks.iterrows():
     
     md_filename = str(item.date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.date) + "-" + item.url_slug 
+    #html_filename = str(item.date) + "-" + item.url_slug 
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
@@ -78,7 +78,7 @@ for row, item in talks.iterrows():
     else:
         md += 'type: "Talk"\n'
     
-    md += "permalink: /talks/" + html_filename + "\n"
+    #md += "permalink: /talks/" + html_filename + "\n"
     
     if len(str(item.venue)) > 3:
         md += 'venue: "' + item.venue + '"\n'
@@ -96,8 +96,8 @@ for row, item in talks.iterrows():
         md += "\n[More information here](" + item.talk_url + ")\n" 
         
     
-    if len(str(item.description)) > 3:
-        md += "\n" + html_escape(item.description) + "\n"
+    #if len(str(item.description)) > 3:
+    #    md += "\n" + html_escape(item.description) + "\n"
         
         
     md_filename = os.path.basename(md_filename)
