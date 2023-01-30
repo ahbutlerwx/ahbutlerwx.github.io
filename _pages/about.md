@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website about my research! 
+I am an atmospheric scientist at the National Oceanic and Atmospheric Administration Chemical Sciences Laboratory. My expertise is in large-scale climate variability, teleconnections, atmospheric dynamics, annular modes, stratospheric dynamics and processes, seasonal prediction, the stratospheric polar vortex, and chemistry-climate processes.
 
 The stratospheric polar vortex
 ======
