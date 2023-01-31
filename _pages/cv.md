@@ -23,7 +23,7 @@ Work experience
 * 2013-2020: Research Scientist
   * CIRES/CU-Boulder and NOAA CSL
   
-* 2009-2013: Research Meteorlogist
+* 2009-2013: Research Meteorologist
   * NOAA Climate Prediction Center
 
 Awards
