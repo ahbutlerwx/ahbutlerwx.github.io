@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics/Astrophysics, University of Colorado-Boulder, 2003
+* M.S. in Atmospheric Science, Colorado State University, 2006
+* Ph.D in Atmospheric Science, Colorado State University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020- : Research Physicist
+  * NOAA Chemical Sciences Laboratory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2020: Research Scientist
+  * CIRES/CU-Boulder and NOAA CSL
   
-Skills
+* 2009-2013: Research Meteorlogist
+  * NOAA Climate Prediction Center
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021: Dr. Daniel L. Albritton Outstanding Science Communicator
+* 2021: Gold Star Award Winner for NOAA Boulder outreach
+* 2019: NASA Group Achievement Award, Atmospheric Tomography Mission
+* 2014: Editor’s Citation for Excellence in Refereeing, Geophysical Research Letters
+
 
 Publications
 ======
@@ -47,13 +45,18 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2022: Member of the WCRP Explaining and Predicting Earth System Change (EPESC) Working Group 2
+* 2022: Member of the Geoengineering Modeling Research Consortium (GMRC) steering group
+* 2019- : Member, International Commission of the Middle Atmosphere (ICMA/IAMAS)
+* 2017- : Co-chair, WCRP/SPARC project Stratospheric Network for the Assessment of Predictability (SNAP)
+* 2018-2021: Member, US CLIVAR Process Studies and Model Improvement (PSMI) panel
+* 2018-2021: Chair, AMS Middle Atmosphere Committee
+* 2010- : Member, SPARC DynVar Committee 
+
+
+
+
+
